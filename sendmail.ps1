@@ -1,6 +1,6 @@
 $EmailFrom = "martonbodimarci@gmail.com"
-$EmailTo = "budavari.bulcsu@szentmor.net"
-$Subject = "Teszt e-mail a Digisparkról"
+$EmailTo = "martonbodimarci@gmail.com"
+$Subject = "Teszt e-mail a Digisparkrol"
 $Body = "Ez egy teszt e-mail uzenet - MUKODIK!."
 
 $Password = "nlnc ammw ctbs wkbb"
